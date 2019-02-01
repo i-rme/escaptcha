@@ -17,3 +17,12 @@ El objetivo de EScaptcha es generar desafíos en forma de imagen para distinguir
  
 # Ejemplos
 ![Ejemplos de Captcha](https://i.imgur.com/4KAV4zr.png)
+
+# Pruebas en Captcha Solving Services
+Podemos apreciar como soluciones como [KCAPTCHA 2.0](http://www.captcha.ru/en/kcaptcha/) son facilmente reconocidas.
+
+![Otros captchas](https://i.imgur.com/uLvkZWJ.png)
+
+En cambio fallan al reconocer EScaptcha.
+
+![EScaptcha](https://i.imgur.com/ExbM5X4.png)
